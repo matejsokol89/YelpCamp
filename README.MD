@@ -6,7 +6,7 @@ Mongo DB, Express, EJS and other libraries.
 Main function is to create a new Campground place, where you can add some informations, picture,
 you can comment, and as a user you can delete that Camp, edit, send comment, delete comment and etc.
 The app has CRUD system implemented. 
-# [YelpCamp heroku link](https://pacific-tundra-46709.herokuapp.com/)
+# [YelpCamp heroku link](https://sokolyelpcamp.herokuapp.com/)
 
 
 
