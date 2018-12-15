@@ -12,10 +12,10 @@ The app has CRUD system implemented.
 
 
 # Preview of work
-![](https://drive.google.com/file/d/1j5yBqgpMgjVx95bBHAbtXSBHhyKUQBC0/view?usp=sharing)
-![](https://drive.google.com/file/d/1zqiOxl5sDmiTqGRgC79-bsirpKYIxXUk/view?usp=sharing)
-![](https://drive.google.com/file/d/1JnDz9q8rSH1yoiW0TSLbsPvweN_if7jj/view?usp=sharing)
-![](https://drive.google.com/file/d/1IDPNXSL_8fwirH_trVqXC0dAJXX1n2-9/view?usp=sharing)
+![](https://i.imgur.com/ZEAEwab.jpg)
+![](https://imgur.com/m01Z3Gq.jpg)
+![](https://imgur.com/rtdocCO.jpg)
+![](https://imgur.com/COtuMQX.jpg)
 
 
 ### Tech
@@ -28,8 +28,3 @@ YelpCamp uses a number of open source libraries:
 *  Mongo DB
 *  EJS
 *  Express
-
-
-
-
-
